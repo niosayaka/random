@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TableViewController : UITableViewController, UITableViewDelegate, UITableViewDataSource {
+class TableViewController : UITableViewController {
 
     var random: Int = 0
     var number: Int = 0
